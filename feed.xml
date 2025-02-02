@@ -1,1 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Rykerr Medical Podcast</title>
+    <link>https://rykerrmedical.github.io/landing/</link>
+    <description>Rykerr Medical LLC is a platform for education focused on emergency, transport, and critical care medicine.</description>
+    <language>en-us</language>
+    <itunes:category text="Education"/>
+    <itunes:image href="https://archive.org/download/submark1/submark1.jpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:author>Rykerr Medical</itunes:author>
+    <itunes:owner>
+      <itunes:name>Rykerr Medical LLC</itunes:name>
+      <itunes:email>ryan@rykerrmedical.com</itunes:email>
+    </itunes:owner>
 
+    <item>
+      <title>What is Up at Rykerr Medical?</title>
+      <description>Rykerr Medical</description>
+      <enclosure url="https://archive.org/download/what-is-up-at-rykerr-medical_202502/What_is_Up_at_Rykerr_Medical.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 2 Jun 2021 12:00:00 +0000</pubDate>
+      <itunes:author>Rykerr Medical</itunes:author>
+      <itunes:image href="https://archive.org/download/what-is-up-at-rykerr-medical_202502/What_is_Up_at_Rykerr_Medical.JPG"/>
+      <link>https://archive.org/details/what-is-up-at-rykerr-medical_202502</link>
+      <guid>https://archive.org/details/what-is-up-at-rykerr-medical_202502</guid>
+    </item>
