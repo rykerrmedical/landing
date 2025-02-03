@@ -13,6 +13,40 @@
       <itunes:name>Rykerr Medical LLC</itunes:name>
       <itunes:email>ryan@rykerrmedical.com</itunes:email>
     </itunes:owner>
+    
+    <item>
+      <title>EMS in Haiti with Claudel & Armadeus</title>
+      <description>
+        The primary story here is getting Claudel to medic school in order to become Haiti’s first paramedic. He needs your support, so check it out and see what can be done. We also mention some other cool stuff along the way. www.empacthaiti.org. And as always, let us know what you think!<br />
+        <br />
+        episode webpage: https://archive.org/details/ems-in-haiti-with-claudel-and-armadeus_202502<br />
+        <br />
+        www.rykerrmedical.com to see what else is going on with the project
+      </description>
+      <enclosure url="https://archive.org/download/ems-in-haiti-with-claudel-and-armadeus_202502/EMS_in_Haiti_with_Claudel_and_Armadeus.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 23 Jul 2021 12:00:00 +0000</pubDate>
+      <itunes:author>Rykerr Medical</itunes:author>
+      <itunes:image href="https://archive.org/download/ems-in-haiti-with-claudel-and-armadeus_202502/EMS_in_Haiti_with_Claudel_and_Armadeus.jpg"/>
+      <link>https://archive.org/details/ems-in-haiti-with-claudel-and-armadeus_202502</link>
+      <guid>https://archive.org/details/ems-in-haiti-with-claudel-and-armadeus_202502</guid>
+    </item>
+
+    <item>
+      <title>Scripts Discussion with Richard</title>
+      <description>
+        In this episode we discuss the idea of creating scripts for learning protocols and refining procedures with Richard Templeman, a flight paramedic in Nevada.  We talk about the development of the idea, outline how we've used it personally, and provide examples of how you can do the same in your own clinical practice.  Let us know what you think and reach out with any questions.<br />
+        <br />
+        episode webpage: https://archive.org/details/scripts-discussion-with-richard_202502<br />
+        <br />
+        www.rykerrmedical.com to see what else is going on with the project
+      </description>
+      <enclosure url="https://archive.org/download/scripts-discussion-with-richard_202502/Scripts_Discussion_with_Richard.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 21 Jun 2021 12:00:00 +0000</pubDate>
+      <itunes:author>Rykerr Medical</itunes:author>
+      <itunes:image href="https://archive.org/download/scripts-discussion-with-richard_202502/Scripts_Discussion_with_Richard.jpg"/>
+      <link>https://archive.org/details/scripts-discussion-with-richard_202502</link>
+      <guid>https://archive.org/details/scripts-discussion-with-richard_202502</guid>
+    </item>
 
     <item>
       <title>What is Up at Rykerr Medical?</title>
