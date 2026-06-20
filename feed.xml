@@ -26,7 +26,11 @@
         <a href="https://www.rykerrmedical.com">www.rykerrmedical.com</a> to see what else is going on with the project
       ]]></description>
       <enclosure url="https://archive.org/download/wes-and-ryan-podcast/Wes%20%26%20Ryan%20on%20Ketamine%2C%20Finger%20Thor%20%26%20POCUS%20in%20EMS.mp3" type="audio/mpeg" length="37128192"/>
-      <category>pocus, trauma, chest tubes, patient assessment, pathophysiology</category>
+      <category>pocus</category>
+	  <category>trauma</category>
+	  <category>chest tubes</category>
+	  <category>patient assessment</category>
+	  <category>pathophysiology</category>
 	  <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
       <itunes:author>Rykerr Medical</itunes:author>
       <itunes:image href="https://archive.org/download/wes-and-ryan-podcast/Wes%20%26%20Ryan%20on%20Ketamine%2C%20Finger%20Thor%20%26%20POCUS%20in%20EMS.jpeg"/>
